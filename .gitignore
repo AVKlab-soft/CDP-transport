@@ -1,7 +1,5 @@
-# No build artifacts, dependencies, or temporary files detected in changes
-# Only source/config files present, so no additional ignores needednode_modules/
+(system_architecture.md is a source/config file, no build artifacts, dependencies, or temp files in the changes)node_modules/
 .next/
 dist/
 build/
 *.log
-node_modules/
