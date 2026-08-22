@@ -1,6 +1,6 @@
-(system_architecture.md is a source/config file, no build artifacts, dependencies, or temp files in the changes)node_modules/
+# Examples 1:
+(empty — output nothing)node_modules/
 .next/
 dist/
 build/
 *.log
-node_modules/
