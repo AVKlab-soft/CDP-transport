@@ -5,3 +5,4 @@ The provided file path appears to be corrupted or encoded incorrectly - it conta
 dist/
 build/
 *.log
+node_modules/
