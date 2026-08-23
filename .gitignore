@@ -1,8 +1,5 @@
-The provided file path appears to be corrupted or encoded incorrectly - it contains non-printable characters and doesn't represent a valid filename that would need to be ignored. Since there are no recognizable file extensions or patterns that match common files requiring gitignore entries, and the path itself seems malformed, no specific ignore rules are warranted.
-
-(empty)node_modules/
+Nothing needs to be added to .gitignore for this change list. The only file added is CDP_Core.ps1, which appears to be a PowerShell script source file and should not be ignored.node_modules/
 .next/
 dist/
 build/
 *.log
-node_modules/
