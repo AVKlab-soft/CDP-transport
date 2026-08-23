@@ -3,3 +3,4 @@ Nothing needs to be added to .gitignore for this change list. The only file adde
 dist/
 build/
 *.log
+node_modules/
